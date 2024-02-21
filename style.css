@@ -1,0 +1,95 @@
+* {
+    font-family:Arial, Helvetica, sans-serif;
+    /* background: linear-gradient(220.55deg, #61C695 0%, #133114 100%);; */
+}
+    
+
+body{
+    /* background: linear-gradient(220.55deg, #61C695 0%, #133114 100%); */
+    background: linear-gradient(220.55deg, #61C695 0%, #133114 100%);
+}
+
+table {
+    /* width: 2000px; */
+    margin: 0 auto; /* Esto centra el contenedor horizontalmente */
+    width: 50%; 
+    background-color: white;
+}
+
+table,th,td{
+    border: 1px solid lightgray;
+    border-collapse: collapse;
+}
+
+th,td {
+    padding: 10px;
+}
+
+
+h1 {
+    font-size: 150px;
+    color:rgb(75, 78, 81);
+    text-align: center;
+    color: white;
+}
+
+h2{
+    text-align: center;
+    color: white;
+}
+
+.btn btn-primary{
+    text-align: center;
+}
+
+.titulo th{
+    background-color: #285c4d;
+    color: aliceblue;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.totales {
+    background-color: #d4c19c;
+    font-weight: bold;
+}
+.gris{
+   background-color: #dddddd; 
+}
+
+.negritas{
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.secundario {
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+identificar{
+    background-color: red;
+}
+
+
+.titulo_tabla {
+background-color: #285c4d;
+}
+
+.prueba{
+    color:white;
+    background-color: #285c4d ;
+    font-weight: bolder;
+}
+
+.comentarios{
+    text-align: left;
+    width: 100px;
+    color:red;
+}
+
+.nota{
+    text-align: left;
+    font-size: 12px;
+    color: white;
+}
